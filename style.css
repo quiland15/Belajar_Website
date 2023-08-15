@@ -1,0 +1,62 @@
+/* latihan 1 CSS */
+/* h1{
+    color:blue;
+    
+} */
+
+/* latihan 2 CSS */
+/* font dalam css:
+- font-family
+- font-size
+- font-weight
+- font-variant
+- font-style
+- line-height */
+/* font-family (untuk mengubah font) bisa menggunakan namafont, dan generic family. */
+/* font-size (untuk mengubah ukuran dari kata/kalimat) */
+/* font-weight (untuk mengukur ketebalan dari sebuah kata/kalimat) */
+/* font-variant (di gunakan untuk mengubah kedalam huruf besar tetapi jika memiliki huruf yg besar maka akan lebih besar) */
+/* font-style (untuk membuat tulisan menjadi italic) */
+/* line-height (untuk mengatur jarak antar baris) */
+/* bisa di gunakan dalam 1 baris agar lebih menghemat baris dalam program, secara berurutan */
+/* h1{
+    font-family:arial, verdana, sans-serif;
+    font-size:50px;
+    font-weight: normal;
+    font-variant: normal;
+    font-style:oblique;
+} */
+/* latihan 3 CSS */
+/* text dalam css:
+-  color
+- text-align
+- text-indent
+- text-decoration
+- text-transform
+- letter-spacing
+- word-spacing*/
+/* color (untuk mengubah warna text)cara penentuan warna(nama warna, hexadecimal, rgb) */
+h1{
+    /* menggunakan nama warna */
+    color:skyblue;
+    /* menggunakan hexadecimal */
+    color:#abcabc;
+    /* menggunakan RGB */
+    color: rgb(190, 40, 8);
+    /* text-align (untuk mengatur posisi text) */
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align:center; */
+}
+/* text-indent (untuk memberikan indentasi pada text/paragraf */
+/* text-decoration :
+- underline
+- overline
+- line through untuk menggaris kata*/
+/* text-transform (untuk mengubah bentuk dari huruf besar ke huruf kecil dan sebaliknya) */
+/* text-transform :
+- lowercase
+- uppercase
+- capitalize */
+/* letter-spacing (untuk mengatur jarak antar huruf) */
+/* word-spacing (untuk mengatur jarak antar kata) */
